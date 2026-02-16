@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": { "start": "node index.js" },
   "dependencies": {
-    "agora-token": "^latest",
+    "agora-token": "latest",
     "cors": "^2.8.5",
     "express": "^4.19.2"
   }
